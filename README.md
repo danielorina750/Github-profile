@@ -1,8 +1,7 @@
 # Hi there, I'm Orina 👋 
 
 
-[![Website](https://orinadev.netlify.com)](https://orinadev.netlify.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/i/flow/single_sign_on)
+## Get to know me and reach me on my portfolio ![image][OrinaDev](https://orinadev.netlify.com)
 
 
 
