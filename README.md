@@ -1,7 +1,8 @@
 # Hi there, I'm Orina 👋 
 
 
-## Get to know me and reach me on my portfolio ![image][OrinaDev](https://orinadev.netlify.com)
+## Get to know me and reach me on my portfolio ![image]
+[OrinaDev](https://orinadev.netlify.com)
 
 
 
