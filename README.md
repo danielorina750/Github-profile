@@ -1,7 +1,8 @@
 # Hi there, I'm Orina 👋 
 
 
-## Get to know me and reach me on my portfolio ![image]
+## Get to know me and reach me on my portfolio ![image](https://github.com/danielorina750/Github-profile/assets/65708288/4cf95078-a7c1-49fa-9e79-6cdd5d20d150)
+
 [OrinaDev](https://orinadev.netlify.com)
 
 
